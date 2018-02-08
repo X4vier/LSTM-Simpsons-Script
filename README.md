@@ -1,6 +1,6 @@
 [//]: # (Image References)
 
-[image1]: ./images/simpsons.jpeg "The Simpsons"
+[image1]: ./simpsons.jpeg "The Simpsons"
 
 
 
