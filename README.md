@@ -8,7 +8,14 @@
 
 ![The Simpsons][image1]
 
+Training a recurrent neural network with LSTM cells to predict the next word from a sequence of Simpson’s lines.
+
+Code is contained and explained in ```tv_script_tf15.ipynb```
+
 This project was completed in January 2018 as part of Udacity's Deep Learning Nanodegree. The starter code this project was adapted from can befound in the "tv-script-generation" folder in [this repository](https://github.com/udacity/deep-learning).
+
+Example output (training only my laptop GPU) goes as follows:
+
 ```
 miss hoover: no, actually, so i want.
 homer simpson: life, a way of weeks.
